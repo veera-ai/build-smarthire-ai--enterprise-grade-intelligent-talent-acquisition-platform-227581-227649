@@ -1,1 +1,3 @@
-# build-smarthire-ai--enterprise-grade-intelligent-talent-acquisition-platform-227581-227649
+# Project Repository
+
+This is the initial README file for the project.
